@@ -1,0 +1,1 @@
+export {fetchFacts} from './factsActions';
