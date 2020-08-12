@@ -1,0 +1,1 @@
+export {factsReducer} from './factsReducer';
